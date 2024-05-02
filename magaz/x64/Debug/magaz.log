@@ -1,0 +1,4 @@
+﻿  magaz.cpp
+D:\С++\magaz\magaz\magaz.cpp(123,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\С++\magaz\magaz\magaz.cpp(209,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  magaz.vcxproj -> D:\С++\magaz\x64\Debug\magaz.exe
